@@ -1,0 +1,25 @@
+.logo {
+    font-family: 'Rock Salt', cursive;
+}
+
+.gezinti {
+    background-color: #0a81ab;
+    font-family: 'Lato', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.content {
+    margin: 8%;
+    background-color: white;
+    padding: 4rem 1rem 4rem 1rem;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.5);
+}
+
+h3 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
